@@ -23,6 +23,6 @@ Hi, I'm **Mohammed Ansari**, a sophomore pursuing a **B.S. in Data Science** at 
 
 ### 📫 Let's Connect!
 - **Email:** mohammed.ansari@sjsu.edu  
-- **LinkedIn:** [Mohammed Ansari](https://www.linkedin.com/in/mohammed-ansari/)  
+- **LinkedIn:** [Mohammed Ansari](https://www.linkedin.com/in/imohammed-ansari/)  
 
 
