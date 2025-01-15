@@ -1,16 +1,32 @@
-## Hi there 👋
+### 👋 About Me
 
-<!--
-**ByteMaverick/Bytemaverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Mohammed Ansari**, a sophomore pursuing a **B.S. in Data Science** at **San Jose State University**. I’m passionate about **machine learning**, **data analysis**, and **automation projects**. My interests include working with **Python**, **data science libraries** (NumPy, Pandas, Matplotlib), and building **intelligent systems**.
 
-Here are some ideas to get you started:
+### 💡 What I Work On
+- 📦 Facial Recognition Systems:
+  * Built a classification model using OpenCV and Scikit-Learn, achieving 90% accuracy with SVM.  
+- 🏠 Home Automation:
+    Designed and deployed a smart home system using Raspberry Pi, **Docker**, and **Home Assistant, with automated backups and remote access through Cloudflare Tunnels.  
+- 📸 Image Downloader Library:
+    Published a Python library for bulk image downloading and dataset creation using Selenium and BeautifulSoup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Languages:** Python, Java  
+- **Data Tools:** NumPy, Pandas, Matplotlib, OpenCV, Scikit-Learn  
+- **Cloud & Automation:** Docker, Cloudflare, Raspberry Pi, Home Assistant  
+- **Databases:** MySQL, MongoDB  
+- **Other Tools:** Git, Spring Boot, Homebridge  
+
+### 🚀 Currently Learning
+- Machine Learning Algorithms from **CS229 by Stanford**  
+- Expanding into **classification models** and **data preprocessing** techniques  
+- Exploring **ElasticSearch** and **JIRA API integrations**  
+
+### 📫 Let's Connect!
+- **Email:** mohammed.ansari@sjsu.edu  
+- **LinkedIn:** [Mohammed Ansari](https://www.linkedin.com/in/mohammed-ansari/)  
+- **GitHub:** Bytemaverick  
+
+---
+
+Would you like me to modify this further to target specific roles or technologies?
