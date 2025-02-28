@@ -19,7 +19,7 @@ Hi, I'm **Mohammed Ansari**, a sophomore pursuing a **B.S. in Data Science** at 
 ### 🚀 Currently Learning
 - Machine Learning Algorithms from **CS229 by Stanford**  
 - Expanding into **classification models** and **data preprocessing** techniques  
-- Exploring **ElasticSearch** and **JIRA API integrations**  
+- Exploring Deep Learning and Computer Vision
 
 ### 📫 Let's Connect!
 - **Email:** mohammed.ansari@sjsu.edu  
