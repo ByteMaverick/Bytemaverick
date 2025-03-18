@@ -1,7 +1,7 @@
 # 👋 About Me
 
 Hi, I'm **Mohammed Ansari**, a sophomore pursuing a **B.S. in Data Science** at **San Jose State University**.  
-I'm passionate about **machine learning**, **AI-driven automation**, and **IoT systems**. My focus lies in **computer vision, model optimization, and scalable AI applications**.
+I'm passionate about **machine learning**, **AI-driven automation**, and **IoT systems**. My Interest  lies in ** scalable AI applications and Deep Learning**.
 
 ## 💡 What I Work On  
 - 🔐 **AI-Powered Smart Security System**  
