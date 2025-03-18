@@ -12,14 +12,14 @@ Hi, I'm **Mohammed Ansari**, a sophomore pursuing a **B.S. in Data Science** at 
 ### 🛠️ Technical Skills
 - **Languages:** Python, Java  
 - **Data Tools:** NumPy, Pandas, Matplotlib, OpenCV, Scikit-Learn  
-- **Cloud & Automation:** Docker, Cloudflare, Raspberry Pi, Home Assistant  
+- **Cloud & Automation:** Docker, Cloudflare, Home Assistant  
 - **Databases:** MySQL, MongoDB  
-- **Other Tools:** Git, Spring Boot, Homebridge  
+- **Other Tools:** Git, Raspberry Pi, Homebridge, Postman   
 
 ### 🚀 Currently Learning
 - Machine Learning Algorithms from **CS229 by Stanford**  
-- Expanding into **classification models** and **data preprocessing** techniques  
 - Exploring Deep Learning and Computer Vision
+- Web dev tools
 
 ### 📫 Let's Connect!
 - **Email:** mohammed.ansari@sjsu.edu  
