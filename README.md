@@ -42,4 +42,4 @@ I'm passionate about **machine learning**, **AI-driven automation**, and **IoT s
 ## 📫 Let's Connect!  
 - 📧 **Email:** mohammed.ansari@sjsu.edu  
 - 🔗 **LinkedIn:** [Mohammed Ansari](https://www.linkedin.com/in/imohammed-ansari/)  
-- 🖥️ **GitHub:** [Bytemaverick](https://github.com/Bytemaverick)  
+
