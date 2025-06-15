@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 👋 Hi, I'm Mohammed Ansari, a Data Science student at SJSU.<br>🧠 I build ML and full-stack apps to solve real-world problems.<br>🛡️ Currently working on ClauseRadar, a privacy-focused AI tool.<br>💻 Skilled in Python, React, SQL, and cloud platforms (GCP/AWS).<br>🚀 Open to internships and collaboration—let’s connect!<br><br>
 
@@ -17,4 +18,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Bytemaverick&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div aligns = "center">
+
+![snake gif](https://github.com/Bytemaverick/Bytemaverick/blob/output/github-snake-dark.svg)
+
+</div>
