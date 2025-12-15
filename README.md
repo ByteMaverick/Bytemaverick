@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-👋 Hi, I'm Mohammed Ansari, a Data Science student at SJSU.<br> I build ML and full-stack apps to solve real-world problems.<br>Currently working on Dockflow, a Baywheels bike availability prediction tool.<br>💻 Skilled in Python, SQL, and cloud platforms (GCP/AWS)<br>
+#  About Me:
+Hi, I'm Mohammed Ansari, a Data Science student at SJSU.<br> I build ML and full-stack apps to solve real-world problems.<br>Currently working on Dockflow, a Baywheels bike availability prediction tool.<br>💻 Skilled in Python, SQL, and cloud platforms (GCP/AWS)<br>
 
 
 
